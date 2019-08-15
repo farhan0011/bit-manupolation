@@ -1,0 +1,6 @@
+bool isPowerOfFour(int num) {
+        cout<<num-1) & num
+        if((num-1) & num==0)
+            return true;
+            return false;
+    }
